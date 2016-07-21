@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Trenuri>
+    <Tren>
+        <CNPSerii>[3]</CNPSerii>
+        <capacitate>13.0</capacitate>
+        <marca>Marca1</marca>
+        <serie>1234</serie>
+        <tonaj>13.4</tonaj>
+    </Tren>
+    <Tren>
+        <CNPSerii>[2, 2]</CNPSerii>
+        <capacitate>14.0</capacitate>
+        <marca>Marca1</marca>
+        <serie>2134</serie>
+        <tonaj>13.4</tonaj>
+    </Tren>
+    <Tren>
+        <CNPSerii>[1, 1]</CNPSerii>
+        <capacitate>13.0</capacitate>
+        <marca>Marca1</marca>
+        <serie>1234</serie>
+        <tonaj>13.4</tonaj>
+    </Tren>
+</Trenuri>

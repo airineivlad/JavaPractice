@@ -1,0 +1,3 @@
+S007#55#Coing#800#Serie01,Serie02,Serie03
+S008#60#Coing#850#Serie11,Serie12,Serie13
+S009#70#Coing#860#Serie31,Serie32,Serie33

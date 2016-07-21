@@ -1,0 +1,3 @@
+S001 SS 800.00  3.00 Serie01,Serie02,Serie03,
+S002 SS 850.00  3.00 Serie11,Serie12,Serie13,
+S003 SS 860.00  3.00 Serie31,Serie32,Serie33,

@@ -1,0 +1,6 @@
+VehiculCargo{serie=S008, tonaj=55.0, marca=Coing, nrLocuri=800.0, seriiMarfuri=[Serie01, Serie02, Serie03]}
+
+VehiculCargo{serie=S006, tonaj=60.0, marca=Coing, nrLocuri=850.0, seriiMarfuri=[Serie11, Serie12, Serie13]}
+
+VehiculCargo{serie=S007, tonaj=70.0, marca=Coing, nrLocuri=860.0, seriiMarfuri=[Serie31, Serie32, Serie33]}
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Trenuri>
+    <Tren>
+        <CNPSerii>[[CNP01,  CNP02,  CNP03]]</CNPSerii>
+        <capacitate>80.0</capacitate>
+        <marca>Boeing715</marca>
+        <serie>S001</serie>
+        <tonaj>26.0</tonaj>
+    </Tren>
+    <Tren>
+        <CNPSerii>[[CNP11,  CNP12,  CNP13]]</CNPSerii>
+        <capacitate>80.0</capacitate>
+        <marca>Boeing615</marca>
+        <serie>S002</serie>
+        <tonaj>27.0</tonaj>
+    </Tren>
+    <Tren>
+        <CNPSerii>[[CNP31,  CNP32,  CNP33]]</CNPSerii>
+        <capacitate>80.0</capacitate>
+        <marca>Boeing515</marca>
+        <serie>S003</serie>
+        <tonaj>28.0</tonaj>
+    </Tren>
+</Trenuri>

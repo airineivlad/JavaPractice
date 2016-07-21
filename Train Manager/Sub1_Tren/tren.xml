@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Tren>
+    <CNPSerii>[1, 1]</CNPSerii>
+    <capacitate>13.0</capacitate>
+    <marca>Marca1</marca>
+    <serie>1234</serie>
+    <tonaj>13.4</tonaj>
+</Tren>
